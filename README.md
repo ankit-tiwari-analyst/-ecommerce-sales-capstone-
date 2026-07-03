@@ -1,6 +1,10 @@
 
 # E-Commerce Sales Analysis — Capstone Project
 
+# Executive Summary
+
+This project analyzes e-commerce sales data to uncover the key factors driving revenue, customer purchasing behavior, and overall business performance. The analysis identifies top-performing products, regions, and customer segments while highlighting trends that can help improve sales and profitability. The findings provide actionable insights for inventory planning, marketing campaigns, and customer retention strategies, enabling data-driven business decisions. By transforming raw sales data into clear visualizations and meaningful recommendations, this project demonstrates how analytics can support sustainable business growth.
+
 ## Overview
 End-to-end analysis of 200,000 e-commerce transactions
 (2023-2024) covering EDA, machine learning, SQL, and
