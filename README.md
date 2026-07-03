@@ -24,6 +24,9 @@ an interactive Power BI dashboard.
   (25.83% discounted vs 25.72% non-discounted)
 - Top product: Tempur-Pedic Mattress ($2.13M profit)
 
+## Feature Importance
+The Random Forest model identified Unit_Price as the strongest predictor of profit (49.18% importance), followed by Quantity (39.28%), indicating that pricing and sales volume have the greatest impact on profitability. Product category had a moderate influence, while regional differences contributed relatively little to profit prediction in this dataset.
+
 ## Machine Learning
 Random Forest Regressor predicting order Profit:
 - R² Score: 0.827 | MAE: $38.70 | RMSE: $64.97
